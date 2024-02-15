@@ -1,0 +1,4 @@
+.grid-row-height {
+    grid-template-rows: 2fr 1fr;
+    max-height: 550px;
+}
